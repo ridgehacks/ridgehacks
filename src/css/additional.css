@@ -475,6 +475,10 @@ tr:hover {
     padding: 2%;
 }
 
+.past-sponsor-image:hover {
+    cursor: pointer;
+}
+
 #faqcontent {
     font-weight: 500;
 }
@@ -611,4 +615,8 @@ tr:hover {
         width: auto;
         height: 5em;
     }
+}
+
+#sponsors {
+    padding: 0 8em 8em 8em !important;
 }
