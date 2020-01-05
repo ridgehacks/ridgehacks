@@ -142,8 +142,13 @@ AOS.init({
 	});
 
 	$("#balsamiq").click(function () {
-		window.open("https://balsamiq.com/", "_blank");
+		  window.open("https://balsamiq.com/", "_blank");
 	});
+
+    $("#GAR").click(function () {
+		    window.open("https://automationroboticsarduino.com/", "_blank");
+	  });
+
 
 	$("#aops").click(function () {
 		window.open("https://artofproblemsolving.com/", "_blank");

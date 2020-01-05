@@ -610,8 +610,36 @@ tr:hover {
         width: auto;
         height: 5em;
     }
+
+    #sponsor-description {
+        margin: 10px;
+    }
+
+    .sponsor-image {
+        height: auto;
+        margin-bottom: 10px;
+    }
+
+    .sponsor-images {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+    }
+
+    #balsamiq {
+        width: 60% !important;
+    }
+
+
 }
 
+
 #sponsors {
-    padding: 0 8em 8em 8em !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+#balsamiq {
+    width: 30%;
 }
