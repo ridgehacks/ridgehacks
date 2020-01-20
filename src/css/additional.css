@@ -643,3 +643,13 @@ tr:hover {
 #balsamiq {
     width: 30%;
 }
+
+.faq-link {
+    color: white;
+    transition: 0.2s;
+}
+
+.faq-link:hover {
+    text-decoration: underline;
+    color: white;
+}

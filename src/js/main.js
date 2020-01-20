@@ -149,6 +149,10 @@ AOS.init({
 		    window.open("https://automationroboticsarduino.com/", "_blank");
 	  });
 
+    $("#rise").click(function() {
+        window.open("https://risebrewingco.com/", "_blank");
+    })
+
 
 	$("#aops").click(function () {
 		window.open("https://artofproblemsolving.com/", "_blank");
