@@ -631,6 +631,10 @@ tr:hover {
         width: 60% !important;
     }
 
+    #eap {
+        width: 70% !important;
+    }
+
 
 }
 
@@ -652,4 +656,8 @@ tr:hover {
 .faq-link:hover {
     text-decoration: underline;
     color: white;
+}
+
+#eap {
+    width: 40%;
 }
