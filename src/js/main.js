@@ -154,6 +154,10 @@ AOS.init({
     })
 
 
+    $("#eap").click(function() {
+        window.open("https://www.eliteadvantageprep.com/", "_blank");
+    });
+
 	$("#aops").click(function () {
 		window.open("https://artofproblemsolving.com/", "_blank");
 	});
