@@ -634,6 +634,9 @@ tr:hover {
     #eap {
         width: 70% !important;
     }
+    #blueskykids {
+        width: 60% !important;
+    }
 
 
 }
@@ -660,4 +663,11 @@ tr:hover {
 
 #eap {
     width: 40%;
+    /* much laziness */
+    margin-left: 10%;
 }
+
+#blueskykids {
+    width: 20%;
+}
+
