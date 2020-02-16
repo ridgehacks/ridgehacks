@@ -192,6 +192,10 @@ AOS.init({
 	$("#sketch").click(function() {
 		window.open("https://www.sketch.com/", "_blank");
 	});
+    $("#blueskykids").click(function() {
+		    window.open("https://www.blue-sky-kids.com/", "_blank");
+	  });
+
 
 	// scroll
 	var scrollWindow = function () {
