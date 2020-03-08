@@ -638,6 +638,9 @@ tr:hover {
         width: 60% !important;
     }
 
+    #aops {
+        width: 50% !important;
+    }
 
 }
 
@@ -649,6 +652,10 @@ tr:hover {
 
 #balsamiq {
     width: 30%;
+}
+
+#aops {
+    width: 20%;
 }
 
 .faq-link {
