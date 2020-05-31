@@ -409,7 +409,7 @@ hr {
 }
 
 .events {
-    width: 70%;
+    width: 80%;
     text-align: center;
     margin: 0 auto;
 }
@@ -532,11 +532,18 @@ tr:hover {
     flex: 0 0 100%!important;
     max-width: 100%!important; }
 @media (max-width: 991.5px) {
-    .scheduleMobile {
+    /*.scheduleMobile {
+        display: block;
+    }*/
+    .schedule {
         display: block;
     }
-    .schedule {
-        display: none;
+    .schedule .time {
+        font-size: 1.1rem;
+        padding-right: 0px;
+    }
+    .schedule .events {
+        width: 100%;
     }
 }
 #live_page_toggle {
