@@ -409,9 +409,13 @@ hr {
 }
 
 .events {
-    width: 80%;
+    width: 75%;
     text-align: center;
     margin: 0 auto;
+}
+
+.event-name-center td.event {
+    text-align: center; 
 }
 
 .time,
